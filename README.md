@@ -1,10 +1,8 @@
 # Awesome Finance Agent
 
-A curated map of the tools, standards, and reference stacks used to build finance agents.
+A curated list of finance agent SDKs, MCP tools, wallet infrastructure, safeguards, simulation systems, security standards, and integration layers for building safer financial agents.
 
-Finance agents are not just chatbots with API access. They can transfer assets, sign transactions, manage permissions, interact with wallets and exchanges, and operate in workflows where mistakes are costly.
-
-This repo helps people navigate that landscape. It organizes the ecosystem around the layers that matter in practice: transaction execution, wallet and signing infrastructure, guardrails and policy controls, simulation and transaction preview, security testing, observability, and the standards that connect these pieces into real systems.
+It covers the core building blocks behind finance agents, including execution SDKs, wallet and signing stacks, policy and safeguard layers, transaction simulation and preview systems, security eval tooling, observability platforms, and the protocols that connect them.
 
 ## Contents
 
