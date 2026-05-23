@@ -86,6 +86,7 @@ Wallet and signing infrastructure controls how an agent gets account access, sig
 | [permissionless.js](https://github.com/pimlicolabs) | ERC-4337 utilities | Crypto | User operation and bundler utilities for custom flows. | Useful when teams need lower-level control. |
 | [Web3Signer](https://docs.web3signer.consensys.io/) | Remote signer | Crypto | Isolates signing from the application or agent runtime. | Helpful for reducing direct signer exposure. |
 | [viem](https://github.com/wevm/viem) | Client library | Crypto | Type-safe EVM interactions and transaction handling. | Common base layer under modern wallet stacks. |
+| [Loyal](https://github.com/loyal-labs/loyal-app) | Smart-account wallet | Crypto | Self-custody Solana smart-account wallet with spending caps, token whitelists, and approved-protocol limits for agents. | Adds enforce-at-signing policy rails to a self-custody Solana wallet. |
 
 ## Safety and Guardrails
 
